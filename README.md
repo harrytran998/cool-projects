@@ -30,3 +30,6 @@ https://github.com/pmndrs/drei
 # Cools Group
 
 https://github.com/pmndrs
+
+https://github.com/chakra-ui/awesome-chakra-ui
+
