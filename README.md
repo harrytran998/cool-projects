@@ -7,6 +7,8 @@ The projects I was interested with technology, beautiful code and structure and 
 https://github.com/harrytran998/mac-dev-setup
 
 
+https://github.com/remix-run/remix
+
 The meta-framework suite designed from scratch for frontend-focused modern web development.
 https://github.com/modern-js-dev/modern.js
 
