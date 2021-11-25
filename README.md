@@ -35,3 +35,5 @@ https://github.com/pmndrs
 
 https://github.com/chakra-ui/awesome-chakra-ui
 
+
+https://github.com/kucherenko/jscpd
